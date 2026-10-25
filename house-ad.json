@@ -1,0 +1,13 @@
+{
+  "id": "seolmyeongwang",
+  "enabled": false,
+  "title": "설명왕",
+  "body": "설명왕 소개 한 줄 (오픈 때 채움)",
+  "cta": "설치하기",
+  "image": "",
+  "url": {
+    "android": "",
+    "ios": ""
+  },
+  "maxPerSession": 3
+}
