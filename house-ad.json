@@ -1,12 +1,12 @@
 {
   "id": "seolmyeongwang",
-  "enabled": false,
+  "enabled": true,
   "title": "설명왕",
-  "body": "설명왕 소개 한 줄 (오픈 때 채움)",
+  "body": "폰 하나로 즐기는 단어 맞히기 파티게임. 이마에 대고, 설명 듣고, 맞히면 아래로!",
   "cta": "설치하기",
   "image": "",
   "url": {
-    "android": "",
+    "android": "https://play.google.com/store/apps/details?id=com.lch752.hintking",
     "ios": ""
   },
   "maxPerSession": 3
